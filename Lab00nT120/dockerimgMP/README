@@ -1,0 +1,8 @@
+Mini Project details 
+-summary im takinng an existing node js app  and trying to dockerize it
+    -identifying the processes:
+        _build it test it and push it_
+        _RUN IT_
+        _I ll be using the alpine version of the node 6x image_
+        _expected output will be on local host port i decide to expose_
+        _give the image a tag and push it to my docker hub account_
